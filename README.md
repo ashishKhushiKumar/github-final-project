@@ -1,2 +1,11 @@
 # github-final-project
-Github project for git ibm certification for full stack developers
+Github project for git ibm certification course for full stack developers
+
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
